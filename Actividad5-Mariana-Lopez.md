@@ -365,4 +365,23 @@ $\frac{28+12i}{116}$
 
 El resultado de $\frac{2-2i}{4-10i}$ = $\frac{28+12i}{116}$ 
 
+---
+#### Calcula el valor absoluto de los siguientes numeros complejos.
 
+43. |9 - 9i| =
+$\sqrt{(9)^2+(-9)^2}$ = $\sqrt{81+81}$ = $\sqrt{162}$ = 9 $\sqrt{2}$
+
+44. |8 -6i| =
+$\sqrt{(8)^2+(-6)^2}$ = $\sqrt{64+36}$ = $\sqrt{100}$ = 10
+
+45. |6 -3i| =
+$\sqrt{(6)^2+(-3)^2}$ = $\sqrt{36+9}$ = $\sqrt{45}$ = 5 $\sqrt{3}$
+
+46. |10 + 10i| =
+$\sqrt{(10)^2+(10)^2}$ = $\sqrt{100+100}$ = $\sqrt{200}$ = 10 $\sqrt{2}$
+
+47. |6 - 10i| =
+$\sqrt{(6)^2+(-10)^2}$ = $\sqrt{36+100}$ = $\sqrt{136}$ = 2 $\sqrt{34}$
+
+48. |-1 + 7i| =
+$\sqrt{(-1)^2+(7)^2}$ = $\sqrt{1+49}$ = $\sqrt{50}$ = 5 $\sqrt{2}$
