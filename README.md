@@ -1,1 +1,0 @@
-# Fundamentos-de-Algebra-Mariana-Donaji-Lopez-Heredia
