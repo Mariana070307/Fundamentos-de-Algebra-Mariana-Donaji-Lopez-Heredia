@@ -6,4 +6,4 @@
 ---
 #### Ubica los siguientes puntos en el plano cartesiano.
 
-![.]{Planoscartesianos/}
+![]( ./Planoscartesianos.jpeg)
