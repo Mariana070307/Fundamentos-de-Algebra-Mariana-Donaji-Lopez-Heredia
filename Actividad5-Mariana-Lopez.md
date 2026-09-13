@@ -385,3 +385,67 @@ $\sqrt{(6)^2+(-10)^2}$ = $\sqrt{36+100}$ = $\sqrt{136}$ = 2 $\sqrt{34}$
 
 48. |-1 + 7i| =
 $\sqrt{(-1)^2+(7)^2}$ = $\sqrt{1+49}$ = $\sqrt{50}$ = 5 $\sqrt{2}$
+
+---
+
+#### Resuelve las siguientes potencias de i.
+
+49. $i^{5}$ = ${5}\div{4}$ = residuo 1 = i
+
+50. $i^{10}$ = ${10}\div{4}$ = residuo 2 = -1
+
+51. $i^{20}$ = ${20}\div{4}$ = residuo 0 = 1
+
+52. $i^{35}$ = ${35}\div{4}$ = residuo 3 = -i
+
+53. $i^{256}$ = ${256}\div{4}$ = residuo 0 = 1
+
+54. $(i^{5})^{5}$ = $i^{3125}$ = ${3125}\div{4}$ = residuo 1 = i
+
+---
+
+#### Convierte los siguiente numeros complejos a su forma polar.
+
+55. 6-8i
+
+$$r= \sqrt{(6)^{2}+(-8)^{2}} = \sqrt{36+64} = \sqrt{100} = 10$$ \
+$\Theta$ = $\tan^{-1}$ ($\frac{-8}{6}$) = -53.13°\
+Por lo tanto, 360° - 53.13° = 306.87°\
+Z = 10(cos 306.87° + i sen 306.87°)
+
+56. $5\sqrt2$ + $5\sqrt2$ $\cdot$ i
+
+$$r= \sqrt{(5\sqrt2)^2+(5\sqrt2)^2} = \sqrt{50+50} = \sqrt{100} = 10$$\
+$\Theta$ = $\tan^{-1}$ ($\frac{5\sqrt2}{5\sqrt2}$) = 45°\
+
+Z = 10(cos 45° + i sen 45°)
+
+57. 2 - $2\sqrt3$ $\cdot$ i
+
+$$r= \sqrt{(2)^2+(-2\sqrt3)^2} = \sqrt{4+12} = \sqrt{16} = 4$$\
+$\Theta$ = $\tan^{-1}$ ($\frac{-2\sqrt3}{2}$) = -60°\
+Por lo tanto, 360° - 60° = 300°\
+Z = 4(cos 300° + i sen 300°)
+
+58. $\frac{3\sqrt3}{2}$ - $\frac{3i}{2}$
+
+$$r= \sqrt{(\frac{3\sqrt3}{2})^2+(\frac{3}{2})^2} = \sqrt{6.75+2.25} = \sqrt{9} = 3$$\
+$\Theta$ = $\tan^{-1}$ ($\frac{(\frac{3\sqrt3}{2})}{(\frac{3}{2})}$) = 30°\
+
+Z = 3(cos 30° + i sen 30°)
+
+59. -2
+
+$$r= \sqrt{(-2)^2} = \sqrt{4} = 2$$\
+$\Theta$ = $\tan^{-1}$ ($\frac{0}{-2}$) = 0°\
+Por lo tanto, 180° - 0° = 180°\
+
+Z = 2(cos 180° + i sen 180°)
+
+60. -7i
+$$r= \sqrt{(-7)^2} = \sqrt{49} = 7$$\
+$ \Theta $ = 270°\
+
+Z = 7(cos 270° + i sen 270°)
+
+
