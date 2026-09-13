@@ -448,4 +448,37 @@ $ \Theta $ = 270°\
 
 Z = 7(cos 270° + i sen 270°)
 
+---
+
+#### Convierte los números complejos de su forma polar a su forma rectangular.
+
+61. cos 30 + i sen 30
+
+a= 1 $\cdot$ cos 30° = 0.86     b= 1 $\cdot$ sen 30° = 0.5\
+Z $\approx$ 0.86 + 0.5 i
+
+62. 2(cos 60 + i sen 60)
+
+a= 2 $\cdot$ cos 60° = 1     b= 2 $\cdot$ sen 60° = 1.73\
+Z $\approx$ 1 + 1.73 i
+
+63. 1.5(cos 90 + i sen 90)
+
+a= 1.5 $\cdot$ cos 90° = 0     b= 1.5 $\cdot$ sen 90° = 1.5\
+Z $\approx$ 0 + 1.5 i
+
+64. 2.5(cos 120 + i sen 120)
+
+a= 2.5 $\cdot$ cos 120° = -1.25    b= 1 $\cdot$ sen 30° = 2.16\
+Z $\approx$ -1.25 + 2.16 i
+
+65. 4(cos 135 + i sen 135)
+
+a= 4 $\cdot$ cos 135° = -2.82     b= 1 $\cdot$ sen 30° = 2.82\
+Z $\approx$ -2.82 + 2.82 i
+
+66. 3(cos 180 + i sen 180)
+
+a= 3 $\cdot$ cos 180° = -3     b= 3 $\cdot$ sen 180° = 0\
+Z $\approx$ -3 + 0 i
 
