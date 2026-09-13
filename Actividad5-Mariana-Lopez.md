@@ -5,3 +5,5 @@
 ## Alumna: Mariana Donaji López Heredia
 ---
 #### Ubica los siguientes puntos en el plano cartesiano.
+
+![.]{Planoscartesianos/}
