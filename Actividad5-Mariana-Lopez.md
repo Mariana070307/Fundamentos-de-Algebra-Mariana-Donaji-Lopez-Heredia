@@ -105,7 +105,7 @@ El resultado de $(2i) (-4i) = 8$
   1. ${-10i^2}$ se convierte en 10 al multiplicarlo por -1.
   2. $\textcolor{red}{10\times{6}}$ se multiplican para obtener el resultado final.
 
-El resultado de $(-2i) (5i) = 10$
+El resultado de $(-2i) (5i) (6)= 60$
 
 33.(-7i)(8 + 8i)(-2 - 8i)
 
@@ -128,7 +128,7 @@ El resultado de $(-2i) (5i) = 10$
 4. ${448i^2}$ se convierte en -448 al ser multiplicado por -1.
 5. Por último se juntan terminos semejantes y se suman $\textcolor{red}{-112 -448} lo que nos da como resultado -560.
 
-El resultado de $(-7i)(8 + 8i)(-2 - 8i)$
+El resultado de $(-7i)(8 + 8i)(-2 - 8i)$ =-560 -336i
 
 34.(-2 - 4i) (-1 - 6i) (7 - 6i)
 
@@ -151,7 +151,7 @@ El resultado de $(-7i)(8 + 8i)(-2 - 8i)$
 5. ${-96^2}$ se convierte en 96 al ser multiplicado por -1.
 6. Por último se juntan terminos semejantes y se suman $\textcolor{red}{96 -154} lo que nos da como resultado -58.
 
-El resultado de $(-2 - 4i) (-1 - 6i) (7 - 6i) =(58 + 224i) $
+El resultado de $(-2 - 4i) (-1 - 6i) (7 - 6i) =(-58 + 224i) $
 
 35.(3i) (1 - 7i) (7 + 4i)
 
@@ -363,7 +363,7 @@ $\frac{2-2i}{4-10i} \times \frac{4+10i}{4+10i}$
 8. Por último se juntan acomodamos el numerador y denominador:
 $\frac{28+12i}{116}$
 
-El resultado de $\frac{2-2i}{4-10i}$ = $\frac{28+12i}{116}$ 
+El resultado de $\frac{2-2i}{4-10i}$ = $\frac{28+12i}{116}$ = $\frac{7 + 3i}{27}$ 
 
 ---
 #### Calcula el valor absoluto de los siguientes numeros complejos.
@@ -375,7 +375,7 @@ $\sqrt{(9)^2+(-9)^2}$ = $\sqrt{81+81}$ = $\sqrt{162}$ = 9 $\sqrt{2}$
 $\sqrt{(8)^2+(-6)^2}$ = $\sqrt{64+36}$ = $\sqrt{100}$ = 10
 
 45. |6 -3i| =
-$\sqrt{(6)^2+(-3)^2}$ = $\sqrt{36+9}$ = $\sqrt{45}$ = 5 $\sqrt{3}$
+$\sqrt{(6)^2+(-3)^2}$ = $\sqrt{36+9}$ = $\sqrt{45}$ = 3 $\sqrt{5}$
 
 46. |10 + 10i| =
 $\sqrt{(10)^2+(10)^2}$ = $\sqrt{100+100}$ = $\sqrt{200}$ = 10 $\sqrt{2}$
@@ -410,8 +410,8 @@ $\sqrt{(-1)^2+(7)^2}$ = $\sqrt{1+49}$ = $\sqrt{50}$ = 5 $\sqrt{2}$
 
 $$r= \sqrt{(6)^{2}+(-8)^{2}} = \sqrt{36+64} = \sqrt{100} = 10$$ \
 $\Theta$ = $\tan^{-1}$ ($\frac{-8}{6}$) = -53.13°\
-Por lo tanto, 360° - 53.13° = 306.87°\
-Z = 10(cos 306.87° + i sen 306.87°)
+Por lo tanto, 360° - 53.13 = 306.87°
+Z = 10(cos 306.87° + i sen  306.87°)
 
 56. $5\sqrt2$ + $5\sqrt2$ $\cdot$ i
 
@@ -442,7 +442,7 @@ Por lo tanto, 180° - 0° = 180°\
 
 Z = 2(cos 180° + i sen 180°)
 
-60. -7i
+60. -7i\
 $$r= \sqrt{(-7)^2} = \sqrt{49} = 7$$\
 $ \Theta $ = 270°\
 
@@ -465,7 +465,7 @@ Z $\approx$ 1 + 1.73 i
 63. 1.5(cos 90 + i sen 90)
 
 a= 1.5 $\cdot$ cos 90° = 0     b= 1.5 $\cdot$ sen 90° = 1.5\
-Z $\approx$ 0 + 1.5 i
+Z $\approx$ 1.5 i
 
 64. 2.5(cos 120 + i sen 120)
 
@@ -480,7 +480,7 @@ Z $\approx$ -2.82 + 2.82 i
 66. 3(cos 180 + i sen 180)
 
 a= 3 $\cdot$ cos 180° = -3     b= 3 $\cdot$ sen 180° = 0\
-Z $\approx$ -3 + 0 i
+Z $\approx$ -3 
 
 ---
 
@@ -491,13 +491,13 @@ Z $\approx$ -3 + 0 i
 a= 4 $\cdot$ cos 30° = 3.4   b= 4 $\cdot$ sen 30° = 2
 Z= 3.4 + 2 i   n=2   K= 0, 1   $r^{1/2}$ = $4^{1/2}$ = $\sqrt4$ = 2
 
-Cuando K=0:
+1er raíz cuadrada; K=0:
 $$cos \frac{30 + 360 \cdot 0}{2} = cos \frac{30}{2} = cos 15°$$
 $$sen \frac{30 + 360 \cdot 0}{2} = sen \frac{30}{2} = sen 15°$$
 
 Respuesta= 2(cos 15° + i sen 15°)
 
-Cuando K=1:
+2da raíz cuadrada; K=1:
 $$cos \frac{30 + 360 \cdot 1}{2} = cos \frac{390}{2} = cos 195°$$
 $$sen \frac{30 + 360 \cdot 1}{2} = sen \frac{390}{2} = sen 195°$$
 
@@ -507,13 +507,13 @@ Respuesta= 2(cos 195° + i sen 195°)
 
 n= 2 K= 0, 1 $r^{1/2}$ = $3^{1/2}$ = $\sqrt3$ 
 
-Cuando K=0:
+1era raíz cuadrada; K=0:
 $$cos \frac{90 + 360 \cdot 0}{2} = cos \frac{90}{2} = cos 45°$$
 $$sen \frac{90 + 360 \cdot 0}{2} = sen \frac{90}{2} = sen 45°$$
 
 Respuesta= $\sqrt3$(cos 45° + i sen 45°)
 
-Cuando K=1:
+2da raíz cuadrada; K=1:
 $$cos \frac{90 + 360 \cdot 1}{2} = cos \frac{450}{2} = cos 225°$$
 $$sen \frac{90 + 360 \cdot 1}{2} = sen \frac{450}{2} = sen 225°$$
 
@@ -523,26 +523,27 @@ Respuesta= $\sqrt3$(cos 225° + i sen 225°)
 
 $$r= \sqrt{(-4\sqrt2)^{2}+(4\sqrt2)^{2}} = \sqrt{32+32} = \sqrt{64} = 8$$
 $\Theta$ = $\tan^{-1}$ ($\frac{4\sqrt2}{-4\sqrt2}$) = 45°
+Por lo tanto, 180° -45°= 135°
 
-Z= 8(cos 45° + i sen 45°)  n= 3  K= 0, 1, 2  r= $\sqrt8$
+Z= 8(cos 135° + i sen 135°)  n= 3  K= 0, 1, 2  r= $\sqrt8$
 
-Cuando K=0:
-$$cos \frac{45 + 360 \cdot 0}{3} = cos \frac{45}{3} = cos 15°$$
-$$sen \frac{45 + 360 \cdot 0}{3} = sen \frac{45}{3} = sen 15°$$
+1era raíz cuadrada; K=0:
+$$cos \frac{135 + 360 \cdot 0}{3} = cos \frac{135}{3} = cos 45°$$
+$$sen \frac{135 + 360 \cdot 0}{3} = sen \frac{135}{3} = sen 45°$$
 
-Respuesta= $3\sqrt8$(cos 15° + i sen 15°)
+Respuesta= $3\sqrt8$(cos 45° + i sen 45°)
 
-Cuando K=1:
-$$cos \frac{45 + 360 \cdot 1}{3} = cos \frac{405}{3} = cos 135°$$
-$$sen \frac{45 + 360 \cdot 1}{3} = sen \frac{405}{3} = sen 135°$$
+2da raíz cuadrada; K=1:
+$$cos \frac{135 + 360 \cdot 1}{3} = cos \frac{495}{3} = cos 165°$$
+$$sen \frac{135 + 360 \cdot 1}{3} = sen \frac{495}{3} = sen 165°$$
 
-Respuesta= $3\sqrt8$(cos 135° + i sen 135°)
+Respuesta= $3\sqrt8$(cos 165° + i sen 165°)
 
-Cuando K=2:
-$$cos \frac{45 + 360 \cdot 2}{3} = cos \frac{765}{3} = cos 255°$$
-$$sen \frac{45 + 360 \cdot 2}{3} = sen \frac{765}{3} = sen 255°$$
+3er raíz cuadrada; K=2:
+$$cos \frac{135 + 360 \cdot 2}{3} = cos \frac{855}{3} = cos 285°$$
+$$sen \frac{135 + 360 \cdot 2}{3} = sen \frac{855}{3} = sen 285°$$
 
-Respuesta= $3\sqrt8$(cos 255° + i sen 255°)
+Respuesta= $3\sqrt8$(cos 285° + i sen 285°)
 
 70.3 raíces cúbicas de $\frac{-27}{8}$
 
@@ -552,19 +553,19 @@ Por lo tanto, 180° + 0° = 180°
 
 Z= $\frac{-27}{8}$(cos 180° + i sen 180°)  n= 3  K= 0, 1, 2  r= $3\sqrt\frac{-27}{8}$ = $\frac{3}{2}$
 
-Cuando K=0:
+1eera raíz cuadrada; K=0:
 $$cos \frac{180 + 360 \cdot 0}{3} = cos \frac{180}{3} = cos 60°$$
 $$sen \frac{180 + 360 \cdot 0}{3} = sen \frac{180}{3} = sen 60°$$
 
 Respuesta= $\frac{3}{2}$(cos 60° + i sen 60°)
 
-Cuando K=1:
+2da raíz cuadrada; K=1:
 $$cos \frac{180 + 360 \cdot 1}{3} = cos \frac{540}{3} = cos 180°$$
 $$sen \frac{180 + 360 \cdot 1}{3} = sen \frac{540}{3} = sen 180°$$
 
 Respuesta= $\frac{3}{2}$(cos 180° + i sen 180°)
 
-Cuando K=2:
+3er raíz cuadrada; K=2:
 $$cos \frac{180 + 360 \cdot 2}{3} = cos \frac{900}{3} = cos 300°$$
 $$sen \frac{180 + 360 \cdot 2}{3} = sen \frac{900}{3} = sen 300°$$
 
@@ -574,75 +575,75 @@ Respuesta= $\frac{3}{2}$(cos 300° + i sen 300°)
 
 $$r= \sqrt{(0)^{2}+(-32)^{2}} = \sqrt{1024} = 32$$
 $\Theta$ = 270° 
-Z= 32(cos 270° + i sen 270°)  n= 5  K= 0, 1, 2, 3, 4  r= $5\sqrt32$ = 2
+Z= 32(cos 270° + i sen 270°)  n= 5  K= 0, 1, 2, 3, 4  r= $\sqrt{32}$ 
 
-Cuando K=0:
-$$cos \frac{270 + 360 \cdot 0}{5} = cos \frac{270}{5} = cos 54°$$
-$$sen \frac{270 + 360 \cdot 0}{5} = sen \frac{270}{5} = sen 54°$$
+1er raíz cuadrada; K=0:
+$$cos \frac{270 + 360 \cdot 0}{2} = cos \frac{270}{2} = cos 135°$$
+$$sen \frac{270 + 360 \cdot 0}{} = sen \frac{270}{2} = sen 135°$$
 
-Respuesta= 2(cos 54° + i sen 54°)
+Respuesta= $\sqrt{32}$ (cos 135° + i sen 135°)
 
-Cuando K=1:
-$$cos \frac{270 + 360 \cdot 1}{5} = cos \frac{630}{5} = cos 126°$$
-$$sen \frac{270 + 360 \cdot 1}{5} = sen \frac{630}{5} = sen 126°$$
+2da raíz cuadrada; K=1:
+$$cos \frac{270 + 360 \cdot 1}{2} = cos \frac{630}{2} = cos 315°$$
+$$sen \frac{270 + 360 \cdot 1}{2} = sen \frac{630}{2} = sen 315°$$
 
-Respuesta= 2(cos 126° + i sen 126°)
+Respuesta= $\sqrt{32}$(cos 315° + i sen 315°)
 
-Cuando K=2:
-$$cos \frac{270 + 360 \cdot 2}{5} = cos \frac{990}{5} = cos 198°$$
-$$sen \frac{270 + 360 \cdot 2}{5} = sen \frac{990}{5} = sen 198°$$
+3er raíz cuadrada; K=2:
+$$cos \frac{270 + 360 \cdot 2}{2} = cos \frac{990}{2} = cos 495°$$
+$$sen \frac{270 + 360 \cdot 2}{2} = sen \frac{990}{2} = sen 495°$$
 
-Respuesta= 2(cos 198° + i sen 198°)
+Respuesta= $\sqrt{32}$(cos 495° + i sen 495°)
 
-Cuando K=3:
-$$cos \frac{270 + 360 \cdot 3}{5} = cos \frac{1350}{5} = cos 270°$$
-$$sen \frac{270 + 360 \cdot 3}{5} = sen \frac{1350}{5} = sen 270°$$
+4ta raíz cuadrada; K=3:
+$$cos \frac{270 + 360 \cdot 3}{2} = cos \frac{1350}{2} = cos 675°$$
+$$sen \frac{270 + 360 \cdot 3}{2} = sen \frac{1350}{2} = sen 675°$$
 
-Respuesta= 2(cos 270° + i sen 270°)
+Respuesta= $\sqrt{32}$(cos 675° + i sen 675°)
 
-Cuando K=4:
-$$cos \frac{270 + 360 \cdot 4}{5} = cos \frac{1710}{5} = cos 342°$$
-$$sen \frac{270 + 360 \cdot 4}{5} = sen \frac{1710}{5} = sen 342°$$
+5ta raíz cuadrada; K=4:
+$$cos \frac{270 + 360 \cdot 4}{2} = cos \frac{1710}{2} = cos 855°$$
+$$sen \frac{270 + 360 \cdot 4}{2} = sen \frac{1710}{2} = sen 855°$$
 
-Respuesta= 2(cos 342° + i sen 342°)
+Respuesta= $\sqrt{32}$(cos 855° + i sen 855°)
 
 72.6 raíces de 729
 
 $$r= \sqrt{(729)^{2}+(0)^{2}} = 729$$
 $\Theta$ = $\tan^{-1}$ $\frac{0}{729}$ = 0
-Z= 729(cos 0° + sen 0°)  n= 6  K= 0, 1, 2, 3, 4, 5  r= $6\sqrt729$ = 162
+Z= 729(cos 0° + sen 0°)  n= 6  K= 0, 1, 2, 3, 4, 5  r= $\sqrt729$ = 27
 
-Cuando K=0:
-$$cos \frac{0 + 360 \cdot 0}{6} = cos \frac{0}{6} = cos 0°$$
-$$sen \frac{0 + 360 \cdot 0}{6} = sen \frac{0}{6} = sen 0°$$
+1er raíz cuadrada; K=0:
+$$cos \frac{0 + 360 \cdot 0}{2} = cos \frac{0}{2} = cos 0°$$
+$$sen \frac{0 + 360 \cdot 0}{2} = sen \frac{0}{2} = sen 0°$$
 
-Respuesta= 162(cos 0° + sen 0°)
+Respuesta= 27(cos 0° + sen 0°)
 
-Cuando K=1:
-$$cos \frac{0 + 360 \cdot 1}{5} = cos \frac{360}{6} = cos 60°$$
-$$sen \frac{0 + 360 \cdot 1}{5} = sen \frac{360}{6} = sen 60°$$
-Respuesta= 162(cos 60° + sen 60°)
+2da raíz cuadrada; K=1:
+$$cos \frac{0 + 360 \cdot 1}{2} = cos \frac{360}{2} = cos 180°$$
+$$sen \frac{0 + 360 \cdot 1}{2} = sen \frac{360}{2} = sen 180°$$
+Respuesta= 27(cos 180° + sen 180°)
 
-Cuando K=2:
-$$cos \frac{0 + 360 \cdot 2}{6} = cos \frac{720}{6} = cos 120°$$
-$$sen \frac{0 + 360 \cdot 2}{6} = sen \frac{720}{6} = sen 120°$$
+3er raíz cuadrada; K=2:
+$$cos \frac{0 + 360 \cdot 2}{2} = cos \frac{720}{2} = cos 360°$$
+$$sen \frac{0 + 360 \cdot 2}{2} = sen \frac{720}{2} = sen 360°$$
 
-Respuesta= 162(cos 120° + sen 120°)
+Respuesta= 27(cos 360° + sen 360°)
 
-Cuando K=3:
-$$cos \frac{0 + 360 \cdot 3}{6} = cos \frac{1080}{6} = cos 180°$$
-$$sen \frac{0 + 360 \cdot 3}{6} = sen \frac{1080}{6} = sen 180°$$
+4ta raíz cuadrada; K=3:
+$$cos \frac{0 + 360 \cdot 3}{2} = cos \frac{1080}{2} = cos 540°$$
+$$sen \frac{0 + 360 \cdot 3}{2} = sen \frac{1080}{2} = sen 540°$$
 
-Respuesta= 162(cos 180° + sen 180°)
+Respuesta= 27(cos 540° + sen 540°)
 
-Cuando K=4:
-$$cos \frac{0 + 360 \cdot 4}{6} = cos \frac{1440}{6} = cos 240°$$
-$$sen \frac{0 + 360 \cdot 4}{6} = sen \frac{1440}{6} = sen 240°$$
+5ta raíz cuadrada; K=4:
+$$cos \frac{0 + 360 \cdot 4}{2} = cos \frac{1440}{2} = cos 720°$$
+$$sen \frac{0 + 360 \cdot 4}{2} = sen \frac{1440}{2} = sen 720°$$
 
-Respuesta= 162(cos 240° + sen 240°)
+Respuesta= 27(cos 720° + sen 720°)
 
-Cuando K=5:
-$$cos \frac{0 + 360 \cdot 5}{6} = cos \frac{1800}{6} = cos 300°$$
-$$sen \frac{0 + 360 \cdot 5}{6} = sen \frac{1800}{6} = sen 300°$$
+6ta raíz cuadrada; K=5:
+$$cos \frac{0 + 360 \cdot 5}{2} = cos \frac{1800}{2} = cos 900°$$
+$$sen \frac{0 + 360 \cdot 5}{2} = sen \frac{1800}{2} = sen 900°$$
 
-Respuesta= 162(cos 300° + sen 300°)
+Respuesta= 27(cos 900° + sen 900°)
