@@ -611,39 +611,39 @@ Respuesta= $\sqrt{32}$(cos 855° + i sen 855°)
 
 $$r= \sqrt{(729)^{2}+(0)^{2}} = 729$$
 $\Theta$ = $\tan^{-1}$ $\frac{0}{729}$ = 0
-Z= 729(cos 0° + sen 0°)  n= 6  K= 0, 1, 2, 3, 4, 5  r= $\sqrt729$ = 27
+Z= 729(cos 0° + sen 0°)  n= 6  K= 0, 1, 2, 3, 4, 5  r= $\sqrt{729}$ = $\sqrt{27}$ = 3
 
 1er raíz cuadrada; K=0:
 $$cos \frac{0 + 360 \cdot 0}{2} = cos \frac{0}{2} = cos 0°$$
 $$sen \frac{0 + 360 \cdot 0}{2} = sen \frac{0}{2} = sen 0°$$
 
-Respuesta= 27(cos 0° + sen 0°)
+Respuesta= 3(cos 0° + sen 0°)
 
 2da raíz cuadrada; K=1:
 $$cos \frac{0 + 360 \cdot 1}{2} = cos \frac{360}{2} = cos 180°$$
 $$sen \frac{0 + 360 \cdot 1}{2} = sen \frac{360}{2} = sen 180°$$
-Respuesta= 27(cos 180° + sen 180°)
+Respuesta= 3(cos 180° + sen 180°)
 
 3er raíz cuadrada; K=2:
 $$cos \frac{0 + 360 \cdot 2}{2} = cos \frac{720}{2} = cos 360°$$
 $$sen \frac{0 + 360 \cdot 2}{2} = sen \frac{720}{2} = sen 360°$$
 
-Respuesta= 27(cos 360° + sen 360°)
+Respuesta= 3(cos 360° + sen 360°)
 
 4ta raíz cuadrada; K=3:
 $$cos \frac{0 + 360 \cdot 3}{2} = cos \frac{1080}{2} = cos 540°$$
 $$sen \frac{0 + 360 \cdot 3}{2} = sen \frac{1080}{2} = sen 540°$$
 
-Respuesta= 27(cos 540° + sen 540°)
+Respuesta= 3(cos 540° + sen 540°)
 
 5ta raíz cuadrada; K=4:
 $$cos \frac{0 + 360 \cdot 4}{2} = cos \frac{1440}{2} = cos 720°$$
 $$sen \frac{0 + 360 \cdot 4}{2} = sen \frac{1440}{2} = sen 720°$$
 
-Respuesta= 27(cos 720° + sen 720°)
+Respuesta= 3(cos 720° + sen 720°)
 
 6ta raíz cuadrada; K=5:
 $$cos \frac{0 + 360 \cdot 5}{2} = cos \frac{1800}{2} = cos 900°$$
 $$sen \frac{0 + 360 \cdot 5}{2} = sen \frac{1800}{2} = sen 900°$$
 
-Respuesta= 27(cos 900° + sen 900°)
+Respuesta= 3(cos 900° + sen 900°)
