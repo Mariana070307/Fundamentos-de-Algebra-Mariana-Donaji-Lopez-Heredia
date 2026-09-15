@@ -430,9 +430,10 @@ Z = 4(cos 300° + i sen 300°)
 58. $\frac{3\sqrt3}{2}$ - $\frac{3i}{2}$
 
 $$r= \sqrt{(\frac{3\sqrt3}{2})^2+(\frac{3}{2})^2} = \sqrt{6.75+2.25} = \sqrt{9} = 3$$\
-$\Theta$ = $\tan^{-1}$ ($\frac{(\frac{3\sqrt3}{2})}{(\frac{3}{2})}$) = 30°\
+$\Theta$ = $\tan^{-1}$ ($\frac{(\frac{3}{2})}{(\frac{3\sqrt3}{2})}$) = -30°
+Por lo tanto, 360° - 30° = 330°
 
-Z = 3(cos 30° + i sen 30°)
+Z = 3(cos 330° + i sen 330°)
 
 59. -2
 
@@ -455,32 +456,32 @@ Z = 7(cos 270° + i sen 270°)
 61. cos 30 + i sen 30
 
 a= 1 $\cdot$ cos 30° = 0.86     b= 1 $\cdot$ sen 30° = 0.5\
-Z $\approx$ 0.86 + 0.5 i
+Z = 0.86 + 0.5 i
 
 62. 2(cos 60 + i sen 60)
 
 a= 2 $\cdot$ cos 60° = 1     b= 2 $\cdot$ sen 60° = 1.73\
-Z $\approx$ 1 + 1.73 i
+Z = 1 + 1.73 i
 
 63. 1.5(cos 90 + i sen 90)
 
 a= 1.5 $\cdot$ cos 90° = 0     b= 1.5 $\cdot$ sen 90° = 1.5\
-Z $\approx$ 1.5 i
+Z = 1.5 i
 
 64. 2.5(cos 120 + i sen 120)
 
 a= 2.5 $\cdot$ cos 120° = -1.25    b= 1 $\cdot$ sen 30° = 2.16\
-Z $\approx$ -1.25 + 2.16 i
+Z = -1.25 + 2.16 i
 
 65. 4(cos 135 + i sen 135)
 
 a= 4 $\cdot$ cos 135° = -2.82     b= 1 $\cdot$ sen 30° = 2.82\
-Z $\approx$ -2.82 + 2.82 i
+Z = -2.82 + 2.82 i
 
 66. 3(cos 180 + i sen 180)
 
 a= 3 $\cdot$ cos 180° = -3     b= 3 $\cdot$ sen 180° = 0\
-Z $\approx$ -3 
+Z = -3 
 
 ---
 
@@ -622,25 +623,25 @@ Respuesta= 3(cos 0° + i sen 0°)
 Cuando K=1:
 $$cos \frac{0 + 360 \cdot 1}{5} = cos \frac{360}{6} = cos 60°$$
 $$sen \frac{0 + 360 \cdot 1}{5} = sen \frac{360}{6} = sen 60°$$
-Respuesta= 3(cos 60° + sen 60°)
+Respuesta= 3(cos 60° + i sen 60°)
 
 Cuando K=2:
 $$cos \frac{0 + 360 \cdot 2}{6} = cos \frac{720}{6} = cos 120°$$
 $$sen \frac{0 + 360 \cdot 2}{6} = sen \frac{720}{6} = sen 120°$$
 
-Respuesta= 3(cos 120° + sen 120°)
+Respuesta= 3(cos 120° + i sen 120°)
 
 Cuando K=3:
 $$cos \frac{0 + 360 \cdot 3}{6} = cos \frac{1080}{6} = cos 180°$$
 $$sen \frac{0 + 360 \cdot 3}{6} = sen \frac{1080}{6} = sen 180°$$
 
-Respuesta= 3(cos 180° + sen 180°)
+Respuesta= 3(cos 180° + i sen 180°)
 
 Cuando K=4:
 $$cos \frac{0 + 360 \cdot 4}{6} = cos \frac{1440}{6} = cos 240°$$
 $$sen \frac{0 + 360 \cdot 4}{6} = sen \frac{1440}{6} = sen 240°$$
 
-Respuesta= 3(cos 240° + sen 240°)
+Respuesta= 3(cos 240° + i sen 240°)
 
 Cuando K=5:
 $$cos \frac{0 + 360 \cdot 5}{6} = cos \frac{1800}{6} = cos 300°$$
