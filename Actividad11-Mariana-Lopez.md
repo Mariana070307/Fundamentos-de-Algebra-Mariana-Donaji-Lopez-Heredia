@@ -121,7 +121,7 @@ Resultado: $\textcolor{red}{4n⁵ + 19n⁴ − 13n² + 12n − 7}$
 - b²: 16 + 15 = 31
 - b: −40 + 6 = −34
 
-**Resultado: $\textcolor{red}{40b³ + 31b² − 34b − 15}**
+**Resultado: $\textcolor{red}{40b³ + 31b² − 34b − 15}$**
 
 130.(8x − 7)(2x² − x − 6)
 
@@ -130,7 +130,7 @@ Resultado: $\textcolor{red}{4n⁵ + 19n⁴ − 13n² + 12n − 7}$
 - x²: −8 − 14 = −22
 - x: −48 + 7 = −41
 
-**Resultado: $\textcolor{red}{16x³ − 22x² − 41x + 42}**
+**Resultado: $\textcolor{red}{16x³ − 22x² − 41x + 42}$**
 
 131.(5x − 7)(2x² + 3x + 3)
 
@@ -139,7 +139,7 @@ Resultado: $\textcolor{red}{4n⁵ + 19n⁴ − 13n² + 12n − 7}$
 - x²: 15 − 14 = 1
 - x: 15 − 21 = −6
 
-**Resultado: $\textcolor{red}{10x³ + x² − 6x − 21}**
+**Resultado: $\textcolor{red}{10x³ + x² − 6x − 21}$**
 
 132.(5x − 2)(8x² + 7x − 2)
 
