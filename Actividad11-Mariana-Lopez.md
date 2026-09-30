@@ -1,6 +1,6 @@
 # Fundamentos de Álgebra
 
-## Actividad #5 - Números complejos.
+## Actividad #11 
 
 ## Alumna: Mariana Donaji López Heredia
 ---
