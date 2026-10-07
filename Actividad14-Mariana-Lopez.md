@@ -40,28 +40,28 @@
     Respuesta: $\textcolor{red}{k^2+12k+36}$
 
 9.  (7n+2)(7n-2) \
-    Respuesta: $\textcolor{red}{49n^2-4}
+    Respuesta: $\textcolor{red}{49n^2-4}$
 
 10. (7m-7)(7m+7) \
-    Respuesta: $\textcolor{red}{49m^2-49}
+    Respuesta: $\textcolor{red}{49m^2-49}$
 
 11. $(2k^3+4)(2k^3-4)$ \
-    Respuesta: $\textcolor{red}{4k^6-4}
+    Respuesta: $\textcolor{red}{4k^6-4}$
 
 12. $(5x^2-1)(5x^2+1)$ \
-    Respuesta: $\textcolor{red}{25x^4-1}
+    Respuesta: $\textcolor{red}{25x^4-1}$
 
 13. (3x-4)(3x+4) \
-    Respuesta: $\textcolor{red}{9x^2-16}
+    Respuesta: $\textcolor{red}{9x^2-16}$
 
 14. (2n-8)(2n+8) \
-    Respuesta: $\textcolor{red}{4n^2-64}
+    Respuesta: $\textcolor{red}{4n^2-64}$
 
 15. $(4+8x^3)(4-8x^3)$ \
-    Respuesta: $\textcolor{red}{-64^6+16}
+    Respuesta: $\textcolor{red}{-64^6+16}$
 
 16. (6+3r)(6-3r) \
-    Respuesta: $\textcolor{red}{9r^2-36}
+    Respuesta: $\textcolor{red}{9r^2-36}$
 
 17. (8m+8)(8m+5) \
    $(8m)^{2}$ + (8+5)(8m) + (8)(5) \
@@ -97,13 +97,13 @@
 
 25. $(y^{4}+4x)^{3}$ \
    $(y^{4})^{3}$ + (3) $(y^{4})^{2}$ (4x) + (3)(y)(4x)^{2}$ + $(4x)^{3}$ \
-    Respuesta: $\textcolor{red}{y^12+12xy^8+48x^2y^4+64x^3}$
+    Respuesta: $\textcolor{red}{y^{12}+12xy^8+48x^2y^4+64x^3}$
 
-25. $(y^{4}+4x)^{3}$ \
-   $(y^{4})^{3}$ + (3) $(y^{4})^{2}$ (4x) + (3)(y)(4x)^{2}$ + $(4x)^{3}$ \
-    Respuesta: $\textcolor{red}{y^12+12xy^8+48x^2y^4+64x^3}$
+26. $(4x^{2}+1)^{3}$ \
+   $(4x^{2})^{3}$ + (3) $(4x^{2})^{2}$ (1) + $(3)(4x^{2})(1)^{2}$ + $(1)^{3}$ \
+    Respuesta: $\textcolor{red}{64x^6+48x^4+12x^+1}$
 
-25. $(y^{4}+4x)^{3}$ \
+27. $(4x^{2}+y)^{3}$ \
    $(y^{4})^{3}$ + (3) $(y^{4})^{2}$ (4x) + (3)(y)(4x)^{2}$ + $(4x)^{3}$ \
     Respuesta: $\textcolor{red}{y^12+12xy^8+48x^2y^4+64x^3}$
 
