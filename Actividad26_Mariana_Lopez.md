@@ -1,14 +1,296 @@
 # Fundamentos de Álgebra
 
-## Actividad #5 - Números complejos.
+## Actividad #26 - Matrices.
 
 ## Alumna: Mariana Donaji López Heredia
 ---
-#### Ubica los siguientes puntos en el plano cartesiano.
+#### Resuelve las siguientes operaciones.
 
+1)
 ```math
 \begin{bmatrix}
-A1 & A2 & A3 \\
-A4 & A5 & A6
+-6 \\
+-2 \\
+-6 \\
+-3
+\end{bmatrix}
++
+\begin{bmatrix}
+5 \\
+-4 \\
+-5 \\
+6
+\end{bmatrix}
++
+\begin{bmatrix}
+6 \\
+2 \\
+6 \\
+-3
+\end{bmatrix}
+=
+\begin{bmatrix}
+5 \\
+-4 \\
+-5 \\
+0
 \end{bmatrix}
 ```
+2)
+```math
+\begin{bmatrix}
+-1 & 3\\
+-6 & -1 \\
+\end{bmatrix}
+-
+\left(
+\begin{bmatrix}
+ 4 & 5\\
+ 0 & -6\\
+\end{bmatrix}
+-
+\begin{bmatrix}
+-3 & -3 \\
+6 & -4 \\
+\end{bmatrix}
+\right)
+```
+```math
+=
+\begin{bmatrix}
+-1 & 3 \\
+-6 & -1 \\
+\end{bmatrix}
+-
+\begin{bmatrix}
+7 & 8 \\
+-6 & -2 \\
+\end{bmatrix}
+=
+\begin{bmatrix}
+-8 & -5 \\
+0 & 1 \\
+\end{bmatrix}
+```
+3)
+```math
+\begin{bmatrix} -4 & 6 & -3 & 5 \end{bmatrix}
+-
+\begin{bmatrix} -4 & -5 & -5 & 3 \end{bmatrix}
++
+\begin{bmatrix} 4 & 4 & 5 & -5 \end{bmatrix}
+=
+\begin{bmatrix} 4 & 15 & 7 & -3 \end{bmatrix}
+```
+4)
+```math
+\begin{bmatrix} 0 & 0 \end{bmatrix}
+-
+\begin{bmatrix} 5 & 4 \end{bmatrix}
++
+\begin{bmatrix} -4 & -3 \end{bmatrix}
+=
+\begin{bmatrix} -1 & -7 \end{bmatrix}
+```
+5)
+```math
+-3 \cdot \left(
+-2
+\begin{bmatrix} -5 & 2 & 2 & -5 \end{bmatrix}
+\right)
+=
+-3 \left(
+\begin{bmatrix} 10 & -4 & -4 & 10 \end{bmatrix}
+\right)
+=
+\begin{bmatrix} -30 & 12 & 12 & -30 \end{bmatrix}
+```
+6)
+```math
+5 \cdot \left(
+-4
+\begin{bmatrix} 2 & -2 & 0 \end{bmatrix}
+\right)
+=
+5 \left(
+\begin{bmatrix} -8 & 8 & 0 \end{bmatrix}
+\right)
+=
+\begin{bmatrix} -40 & 40 & 0\end{bmatrix}
+```
+7)
+```math
+5 \cdot \left(
+2
+\begin{bmatrix}
+-2 & -4 \\
+-1 & -5 \\
+-1 & -5
+\end{bmatrix}
+\right)
+=
+5 \left(
+\begin{bmatrix}
+-4 & -8 \\
+-2 & -10 \\
+-2 & -10
+\end{bmatrix}
+=
+\begin{bmatrix}
+-20 & -40 \\
+-10 & -50 \\
+-10 & -50
+\end{bmatrix}
+\right)
+```
+8)
+```math
+-3 \cdot \left(
+3
+\begin{bmatrix}
+6 \\
+-1
+ \end{bmatrix}
+\right)
+=
+-3 \left(
+\begin{bmatrix}
+18 \\
+-3
+\end{bmatrix}
+\right)
+=
+\begin{bmatrix}
+-54 \\
+9
+\end{bmatrix}
+```
+9)
+```math
+\begin{bmatrix} 0 & 5 \\ 2 & -4 \end{bmatrix}
+\cdot
+\left(
+\begin{bmatrix} 4 & 0 \\ 2 & 1 \end{bmatrix}
+\cdot
+\begin{bmatrix} -2 & 1 & 2 & -3 \\ 4 & -2 & 3 & 2 \end{bmatrix}
+\right)
+=
+\begin{bmatrix} 0 & 5 \\ 2 & -4 \end{bmatrix}
+*
+\begin{bmatrix}
+-8 & 4 & 8 & -12 \\
+0 & 0 & 7 & -4
+\end{bmatrix}
+=
+\begin{bmatrix}
+0 & 0 & 35 & -20 \\
+-16 & 8 & -12 & -8
+\end{bmatrix}
+```
+10)
+```math
+\begin{bmatrix} 1 & 2 \\ 3 & -4 \\ 2 & -4 \end{bmatrix}
+\cdot
+\left(
+\begin{bmatrix} 4 & 2 \\ 2 & -5 \end{bmatrix}
+\cdot
+\begin{bmatrix} -1 & 3 \\ 1 & 2 \end{bmatrix}
+\right)
+```
+```math
+=
+\begin{bmatrix} -16 & 8 \\ 22 & 64 \\ 24 & 48 \end{bmatrix}
+```
+11)
+```math
+\begin{bmatrix} 5 & -2 & 5 & 6 \\ 1 & -5 & 6 & 4 \end{bmatrix}
+\cdot
+\left(
+\begin{bmatrix} 3 & 1 \\ 4 & -1 \\ -1 & -3 \\ -2 & -1 \end{bmatrix}
+\cdot
+\begin{bmatrix} 0 & 1 \\ -1 & 0 \end{bmatrix}
+\right)
+```
+```math
+=
+\begin{bmatrix} 14 & -10 \\ 16 & -31 \end{bmatrix}
+```
+12)
+```math
+\begin{bmatrix} 0 & -4 \\ 1 & -4 \\ -1 & 5 \\ -3 & 4 \end{bmatrix}
+\cdot
+\left(
+\begin{bmatrix} -3 & -1 & -2 & 3 \\ -1 & -4 & -3 & 5 \end{bmatrix}
+\cdot
+\begin{bmatrix} 4 & 0 \\ 1 & -5 \\ 2 & 5 \\ 2 & 1 \end{bmatrix}
+\right)
+```
+```math
+=
+\begin{bmatrix}
+16 & -40 \\
+5 & -42 \\
+-9 & 52 \\
+17 & 46
+\end{bmatrix}
+```
+
+---
+### Encuentra la inversa de las siguientes matrices
+
+13)
+```math
+\begin{vmatrix} 3 & -4 & -1 \\ -1 & 2 & 2 \\ -3 & -1 & 2 \end{vmatrix} 
+```
+Se calcula si se puede invertir. 
+|A|= $\frac{1}{|A|} * (Adj(A))^{t}$
+= 27
+
+14)
+```math
+\begin{vmatrix} 3 & 0 & 2 \\ 4 & 5 & -2 \\ -1 & -3 & -4 \end{vmatrix}
+```
+Se calcula si se puede invertir. 
+|A|= -92
+
+15)
+```math
+\begin{vmatrix} -1 & 4 & -4 \\ 0 & -3 & 4 \\ 0 & 0 & 0 \end{vmatrix}
+```
+Se calcula si se puede invertir. 
+|A|= 0
+
+16)
+```math
+\begin{vmatrix} 6 & -5 & 1 \\ -4 & 6 & -3 \\ 2 & 6 & -2 \end{vmatrix}
+```
+Se calcula si se puede invertir. 
+|A| = 70
+
+17)
+```math
+\begin{vmatrix} 1 & -5 & -5 \\ 7 & -3 & -1 \\ -2 & -6 & 0 \end{vmatrix}
+```
+Se calcula si se puede invertir. 
+|A| = 224
+
+18)
+```math
+\begin{vmatrix} -5 & 1 & -4 \\ -3 & -6 & -4 \\ -1 & -1 & -4 \end{vmatrix}
+```
+Se calcula si se puede invertir. 
+|A| = -96
+
+19)
+```math
+\begin{vmatrix} -1 & -1 & -3 \\ -6 & -6 & -3 \\ 3 & 6 & -2 \end{vmatrix} 
+```
+Se calcula si se puede invertir. 
+|A| = 45
+
+20)
+```math
+\begin{vmatrix} -2 & 2 & -2 \\ 5 & -2 & 1 \\ -1 & 5 & 3 \end{vmatrix} 
+```
+Se calcula si se puede invertir. 
+|A| = -56
